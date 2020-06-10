@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DomainModel.Question">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Services.AnswerService">
+    <Position X="15.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAgAEAACAAIAAAkAQAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>AnswerService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.233" />
+  </Class>
+  <Class Name="Services.CommentService">
+    <Position X="21.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAiAEAAAAAIAAQgAAAAAAAAgAAAAAgAA=</HashCode>
+      <FileName>CommentService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Services.QuestionService">
+    <Position X="19" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAABAAAAASAAAgAEAAACAIACQgBAAABAABAAAAAAgAA=</HashCode>
+      <FileName>QuestionService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Services.UserService">
+    <Position X="24.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAhAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>UserService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Store.QuestionStore">
+    <Position X="35.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Store.UserStore">
+    <Position X="32.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DomainModel.Answer">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DomainModel.Comment">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DomainModel.Flag">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DomainModel.Moderator">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DomainModel.RegularUser">
+    <Position X="11.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DomainModel.Upvotes">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DomainModel.User">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="Services.IAnswerService">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAACAAAAAAEAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contract\IAnswerService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Services.ICommentService">
+    <Position X="19.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAACAAAAAAAAAAQAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Contract\ICommentService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Services.IFlagService">
+    <Position X="22" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contract\IFlagService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Services.IQuestionService">
+    <Position X="25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAABAAAAASAAAAAAAAACAAACQABAAABAABAAAAAAAAA=</HashCode>
+      <FileName>Contract\IQuestionService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Services.IUpvotes">
+    <Position X="27.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Contract\IUpvotes.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Services.IUserService">
+    <Position X="27.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAABAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Contract\IUserService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Store.IQuestionStore">
+    <Position X="35.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Store.IUserStore">
+    <Position X="32.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

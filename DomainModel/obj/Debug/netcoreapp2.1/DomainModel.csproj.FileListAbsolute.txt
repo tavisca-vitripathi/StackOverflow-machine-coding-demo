@@ -1,0 +1,8 @@
+C:\Users\vitripathi\source\repos\StackOverflow\DomainModel\bin\Debug\netcoreapp2.1\DomainModel.deps.json
+C:\Users\vitripathi\source\repos\StackOverflow\DomainModel\bin\Debug\netcoreapp2.1\DomainModel.dll
+C:\Users\vitripathi\source\repos\StackOverflow\DomainModel\bin\Debug\netcoreapp2.1\DomainModel.pdb
+C:\Users\vitripathi\source\repos\StackOverflow\DomainModel\obj\Debug\netcoreapp2.1\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\vitripathi\source\repos\StackOverflow\DomainModel\obj\Debug\netcoreapp2.1\DomainModel.AssemblyInfoInputs.cache
+C:\Users\vitripathi\source\repos\StackOverflow\DomainModel\obj\Debug\netcoreapp2.1\DomainModel.AssemblyInfo.cs
+C:\Users\vitripathi\source\repos\StackOverflow\DomainModel\obj\Debug\netcoreapp2.1\DomainModel.dll
+C:\Users\vitripathi\source\repos\StackOverflow\DomainModel\obj\Debug\netcoreapp2.1\DomainModel.pdb

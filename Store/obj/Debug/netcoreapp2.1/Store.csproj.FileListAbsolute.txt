@@ -1,0 +1,12 @@
+C:\Users\vitripathi\source\repos\StackOverflow\Store\bin\Debug\netcoreapp2.1\Store.deps.json
+C:\Users\vitripathi\source\repos\StackOverflow\Store\bin\Debug\netcoreapp2.1\Store.dll
+C:\Users\vitripathi\source\repos\StackOverflow\Store\bin\Debug\netcoreapp2.1\Store.pdb
+C:\Users\vitripathi\source\repos\StackOverflow\Store\bin\Debug\netcoreapp2.1\DomainModel.dll
+C:\Users\vitripathi\source\repos\StackOverflow\Store\bin\Debug\netcoreapp2.1\DomainModel.pdb
+C:\Users\vitripathi\source\repos\StackOverflow\Store\obj\Debug\netcoreapp2.1\Store.csprojAssemblyReference.cache
+C:\Users\vitripathi\source\repos\StackOverflow\Store\obj\Debug\netcoreapp2.1\Store.csproj.CoreCompileInputs.cache
+C:\Users\vitripathi\source\repos\StackOverflow\Store\obj\Debug\netcoreapp2.1\Store.AssemblyInfoInputs.cache
+C:\Users\vitripathi\source\repos\StackOverflow\Store\obj\Debug\netcoreapp2.1\Store.AssemblyInfo.cs
+C:\Users\vitripathi\source\repos\StackOverflow\Store\obj\Debug\netcoreapp2.1\Store.csproj.CopyComplete
+C:\Users\vitripathi\source\repos\StackOverflow\Store\obj\Debug\netcoreapp2.1\Store.dll
+C:\Users\vitripathi\source\repos\StackOverflow\Store\obj\Debug\netcoreapp2.1\Store.pdb
